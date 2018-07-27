@@ -1,0 +1,11 @@
+name: statsmodels
+dependencies:
+ - numpy
+ - scipy
+ - pandas
+ - patsy
+ - cython
+ - matplotlib
+ - sphinx
+ - pytest
+ - ipython
